@@ -24,3 +24,8 @@ proguard/
 
 # Log Files
 *.log
+
+workspace.xml
+tasks.xml
+atlassian-ide-plugin.xml
+
